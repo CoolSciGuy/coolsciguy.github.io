@@ -20,3 +20,25 @@ The bread and butter of any theme. Below you'll find the layouts included with M
 ## Default layout
 
 what is disqus
+
+### Layout based and user-defined classes
+
+Class names corresponding to each layout are automatically added to the `<body>` element eg. `<body class="layout--single">`.
+
+| layout           | class name                  |
+| ---------------- | --------------------------- |
+| archive          | `.layout--archive`          |
+| archive-taxonomy | `.layout--archive-taxonomy` |
+| search           | `.layout--search`           |
+| single           | `.layout--single`           |
+| splash           | `.layout--splash`           |
+| home             | `.layout--home`             |
+| posts            | `.layout--posts`            |
+| categories       | `.layout--categories`       |
+| category         | `.layout--category`         |
+| tags             | `.layout--tags`             |
+| tag              | `.layout--tag`              |
+
+Using YAML Front Matter you can also assign custom classes to target with CSS or JavaScript. Perfect for "art directed" posts or adding custom styles to specific pages.
+
+Example:
