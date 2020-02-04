@@ -1,6 +1,8 @@
 ---
-title: "About"
-permalink: /about/
+title: "machine learning"
+date: 2018-01-05
+tags: [mach]
+header:
+  image: "/images/getty-a.jpg"
+excerpt: "machine machine"
 ---
-
-  I'm a senior blah blah blah blblblaaaah- this page is under construction
