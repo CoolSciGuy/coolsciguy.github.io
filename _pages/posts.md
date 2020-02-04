@@ -10,7 +10,7 @@ single_layout_gallery:
     alt: "single layout with comments and related posts"
 last_modified_at: 2020-02-04 T13:14:09-05:00
 toc: true
-toc_label: "Included Layouts"
+toc_label: "On this page"
 toc_icon: "columns"
 ---
 
