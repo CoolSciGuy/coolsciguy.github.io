@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "The wind will carry us"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "To chronicle my Data science journey" # site tagline that appears below site title in masthead
 name                     : &name "Amir Sharifi"
 description              : "To chronicle my Data science journey"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
