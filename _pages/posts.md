@@ -1,5 +1,5 @@
 ---
-title: "posts"
+title: "Neural network stuff"
 layout: single
 permalink: /pages/posts/
 excerpt: "Descriptions and samples of all layouts included with the theme and how to best use them."
