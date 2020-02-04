@@ -1,9 +1,6 @@
 ---
 title: "Quick-Start Guide"
 permalink: /pages/about/
-header:
-  image: "/images/getty-2.jpg"
-excerpt: "machine machine"
 layout: default
 ---
 
