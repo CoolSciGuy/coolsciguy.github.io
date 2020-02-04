@@ -1,4 +1,5 @@
 ---
+permalink: /about/
 title: "machine learning"
 date: 2018-01-05
 tags: [mach]
