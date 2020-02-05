@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Amir Sharifi"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a DS - page under construction"
+  bio              : "I am a data scientist seving great residents of Washington DC"
   location         : "DC metropolitan area"
   email            :
   links:
@@ -125,9 +125,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "fab fa-fw fa-github-square"
       icon: "CoolSciguy"
-      # url: "https://github.com/"
+       url: "https://github.com/CoolSciGuy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
