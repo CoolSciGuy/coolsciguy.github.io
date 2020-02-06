@@ -64,22 +64,22 @@ plugins:
   - jekyll-include-cache
 
 # author:
-#   name   : "Amir Sharifi"
-#   avatar : "/assets/images/bio.jpg"
-#   bio    : "This is Amir, a Data scientist, serving the wonderful people of Washington DC!"
-#   links:
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+  name   : "Amir Sharifi"
+  avatar : "/assets/images/bio.jpg"
+  bio    : "This is Amir, a Data scientist, serving the wonderful people of Washington DC!"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
