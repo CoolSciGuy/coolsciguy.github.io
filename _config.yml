@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Amir Sharifi
 description: Machine learning and other stuff
+subtitle: Machine learning and other stuff
 avatar: /assets/images/bio.jpg
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
