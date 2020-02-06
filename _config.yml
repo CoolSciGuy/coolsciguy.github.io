@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Machine learning and other stuff
+title: Amir Sharifi
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/images/bio.jpg
@@ -21,9 +21,8 @@ avatar: /assets/images/bio.jpg
 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Machine learning and other stuff
+
 twitter_username: Amirrreza
 github_username: Coolsciguy
 minimal_mistakes_skin: default
@@ -62,26 +61,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Amir Sharifi"
-  avatar : "/assets/images/bio.jpg"
-  bio    : "This is Amir, a Data scientist, serving the wonderful people of Washington DC!"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-# footer:
+# author:
+#   name   : "Amir Sharifi"
+#   avatar : "/assets/images/bio.jpg"
+#   bio    : "This is Amir, a Data scientist, serving the wonderful people of Washington DC!"
 #   links:
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://"
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       url: "https://twitter.com/"
@@ -91,6 +78,18 @@ author:
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -110,7 +109,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: False
 
 category_archive:
   type: liquid
