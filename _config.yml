@@ -63,7 +63,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
+author:
   name   : "Amir Sharifi"
   avatar : "/assets/images/bio.jpg"
   bio    : "This is Amir, a Data scientist, serving the wonderful people of Washington DC!"
