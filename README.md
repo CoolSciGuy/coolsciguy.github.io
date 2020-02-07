@@ -4,7 +4,6 @@ Simplistic jekyll portfolio-style theme for writers.
 
 **Demo**: [thelehhman.com](https://thelehhman.com)
 
-![plainwhite theme preview](/screenshot.png)
 
 ## Installation on Github Pages
 
@@ -117,9 +116,9 @@ Tagline can be multiline in this way
 ```yaml
 plainwhite:
   tagline: |
-  First Line. 
+  First Line.
 
-  Second Line. 
+  Second Line.
 
   Third Line.
 ```
