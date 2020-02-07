@@ -56,4 +56,13 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
+
+#Amir added this
 remote_theme: thelehhman/plainwhite-jekyll
+
+
+navigation:
+    # - title: My Work
+    #   url: "/my-work"
+    - title: amout
+      url: "/about"
