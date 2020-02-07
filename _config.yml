@@ -51,7 +51,7 @@ plainwhite:
   #   - title: My Work
   #     url: "/my-work"
     - title: about
-      url: _about/about.md
+      url: "_about/about.md"
 
 
 # If you want to link only specific pages in your header, uncomment
