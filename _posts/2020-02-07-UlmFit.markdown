@@ -16,7 +16,7 @@ categories: NLP ULMfit
     }
 
     ```javascript
-    if (isAwesome){
+    if (isAwennnnnnsome){
       return true
     }
     ```
