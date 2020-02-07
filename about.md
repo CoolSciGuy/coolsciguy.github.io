@@ -11,6 +11,6 @@ I am currently serving the beautiful people of **Washington DC**, ensuring the h
 
 In my page, I will chronicle different projects that I am working on.
 
-I am also a Home baker! here is one of the many breads I bake at home:
 
-![Image of my home made bread](https://raw.githubusercontent.com/CoolSciGuy/coolsciguy.github.io/master/assets/bread.jpeg)
+
+![I am also a Home baker! here is one of the many breads I bake at home:](https://raw.githubusercontent.com/CoolSciGuy/coolsciguy.github.io/master/assets/bread.jpeg)
