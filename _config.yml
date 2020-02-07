@@ -1,4 +1,4 @@
-title: Amir Sharifi - MAchine learning and other things
+title: Amir Sharifi - Machine learning and other things
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -47,7 +47,7 @@ plainwhite:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - _about/about.md
+  - about.md
 
 # Build settings
 theme: plainwhite
