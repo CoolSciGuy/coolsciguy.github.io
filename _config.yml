@@ -47,7 +47,7 @@ plainwhite:
     #   instance: example.com
 
 
-  # navigation:
+  navigation:
   #   - title: My Work
   #     url: "/my-work"
     - title: about
