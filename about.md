@@ -13,4 +13,4 @@ In my page, I will chronicle different projects that I am working on.
 
 I am also a Home baker! here is one of the many breads I bake at home:
 
-![Image of my home made bread](https://coolsciguy.github.io/assets/bread.jpeg)
+![Image of my home made bread](https://github.com/CoolSciGuy/coolsciguy.github.io/blob/master/assets/bread.jpeg)
