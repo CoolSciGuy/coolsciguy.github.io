@@ -1,3 +1,3 @@
 ---
-include: bio
+title:  "intro"
 ---
