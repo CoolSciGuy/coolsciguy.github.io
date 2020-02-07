@@ -50,8 +50,8 @@ plainwhite:
   # navigation:
   #   - title: My Work
   #     url: "/my-work"
-  #   - title: about
-  #     url: "/about"
+    - title: about
+      url: "/about"
 
 
 # If you want to link only specific pages in your header, uncomment

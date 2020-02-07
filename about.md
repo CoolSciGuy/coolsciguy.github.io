@@ -1,4 +1,4 @@
 ---
 title:  "intro"
-layout: home
+layout: post
 ---
