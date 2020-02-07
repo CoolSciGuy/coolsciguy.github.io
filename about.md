@@ -10,7 +10,7 @@ Hey there, this is Amir. I am an environmental scientist by trade, and a data sc
 I am currently serving the beautiful city of **Washington DC** , ensuring the health and integrity of streams in our nation's capital.
 
 
-In my page, I will chronicle different projects that I am working on.
+In my page, I will chronicle different data science and machine learning projects that I am working on.
 
 
 I am also a Home baker! here is one of the many breads I bake at home:
