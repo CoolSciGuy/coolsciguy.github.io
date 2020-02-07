@@ -14,6 +14,7 @@ In my page, I will chronicle different data science and machine learning project
 
 
 I am also a Home baker! here is one of the many breads I bake at home:
+
 <!-- ![my bread](https://raw.githubusercontent.com/CoolSciGuy/coolsciguy.github.io/master/assets/bread.jpeg) -->
 
 ![my bread](/assets/bread.jpeg)
