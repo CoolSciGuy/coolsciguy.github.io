@@ -13,7 +13,8 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Amir Sharifi
-  tagline: Data/Environmental Scientist. 
+  tagline: Data Scientist
+           Environmental Scientist
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
@@ -46,7 +47,7 @@ plainwhite:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-- /about/about.md
+- _about/about.md
 
 # Build settings
 theme: plainwhite
