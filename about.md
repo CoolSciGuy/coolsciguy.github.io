@@ -1,6 +1,6 @@
 ---
 title:  "intro"
-layout: page
+layout: home
 Date: 2020-02-07 11:37:00 -0500
 ---
 Hey there, this is Amir. I am an environmental scientist by trade, and a data scientist by heart.
