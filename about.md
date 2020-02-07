@@ -1,6 +1,7 @@
 ---
 title:  "intro"
 layout: post
+Date: 2020-07-02
 ---
 Hey there, this is Amir. I am an environmental scientist by trade, and a data scientist by heart.
 
