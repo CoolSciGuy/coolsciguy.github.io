@@ -53,14 +53,7 @@ plainwhite:
   #   - title: about
   #     url: "/about"
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-=======
->>>>>>> parent of d550230... sitemap
-=======
->>>>>>> parent of d550230... sitemap
+  
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
@@ -71,9 +64,7 @@ plainwhite:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
+
 
 #Amir added this
 remote_theme: thelehhman/plainwhite-jekyll
