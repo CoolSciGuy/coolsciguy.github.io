@@ -59,9 +59,9 @@ plugins:
 #Amir added this
 remote_theme: thelehhman/plainwhite-jekyll
 
-
-navigation:
+plainwhite:
+ navigation:
     # - title: My Work
     #   url: "/my-work"
-    - title: amout
+    - title: about
       url: "/about"
