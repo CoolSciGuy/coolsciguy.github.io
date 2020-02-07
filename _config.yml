@@ -13,8 +13,8 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Amir Sharifi
-  tagline: Data Scientist.
-           Environmental Scientist.
+  tagline: Data Scientist
+  tagline: Environmental Scientist
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
