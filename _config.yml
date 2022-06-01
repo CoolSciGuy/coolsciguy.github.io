@@ -48,8 +48,8 @@ plainwhite:
 
   navigation:
 
-    - title: about
-      url: "/about"
+#    - title: about
+#      url: "/about"
  #   - title: home
  #     url: "/index"
 
