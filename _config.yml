@@ -50,8 +50,8 @@ plainwhite:
 
     - title: about
       url: "/about"
-    - title: home
-      url: "/index"
+ #   - title: home
+ #     url: "/index"
 
       
 # If you want to link only specific pages in your header, uncomment
