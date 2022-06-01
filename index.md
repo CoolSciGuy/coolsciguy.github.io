@@ -1,11 +1,11 @@
 ---
 title:  "intro"
 layout: page
-Date: 2020-02-07 11:37:00 -0500
+Date: 2022-06-01 11:37:00 -0500
 ---
-# About me 
 
-(This website is under construvtion - here is my bio for now!)
+
+(This website is under construction - here is my bio for now!)
 
 Hey there, this is Amir. I am an environmental scientist by trade and a data scientist at heart. I have a PhD in Environmental sciences, and two degrees in Civil Engineering. I am currently serving the beautiful city of Washington DC, ensuring the health and integrity of streams in our nation's capital.
 
