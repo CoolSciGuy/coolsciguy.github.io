@@ -3,14 +3,15 @@ title:  "intro"
 layout: page
 Date: 2020-02-07 11:37:00 -0500
 ---
-# About me
+# About me 
 
-Hey there, this is Amir. I am an environmental scientist by trade, and a data scientist by heart. I have a PhD in Environmental sciences, and two degrees in Civil Engineering.
+(This website is under construvtion - here is my bio for now!)
 
-I am currently serving the beautiful city of Washington_DC, ensuring the health and integrity of streams in our nation's capital.
+Hey there, this is Amir. I am an environmental scientist by trade, and a data scientist at heart. I have a PhD in Environmental sciences, and two degrees in Civil Engineering. I am currently serving the beautiful city of Washington DC, ensuring the health and integrity of streams in our nation's capital.
 
+I have experience in teaching and guiding students through solving complicatied problems. 
 
-In my page, I will chronicle different data science and machine learning projects that I am working on.
+In my page, I will chronicle different data science and machine learning projects that I am working on. 
 
 
 I am also a Home baker! here is one of the many breads I bake at home:
