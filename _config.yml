@@ -15,6 +15,7 @@ sass:
 plainwhite:
   name: Amir Sharifi
   tagline: "Musician"
+  avatar: /assets/Bio.jpeg
   date_format: "%b %-d, %Y"
   sitemap: False # set to true to generate sitemap.xml content
 
