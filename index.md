@@ -8,9 +8,9 @@ title: "About Me - Amir Sharifi"
 
 My name is Amir Sharifi, a Rockville-based musician specializing in Middle Eastern music. While I work professionally as a civil servant with the federal government, my passion lies in performing and sharing the rich musical traditions of the Middle East. My primary instruments are the oud and the setar, both of which I have studied extensively with master musicians.
 
-<!-- ![my bread](https://raw.githubusercontent.com/CoolSciGuy/coolsciguy.github.io/master/assets/bread.jpeg) -->
 
-![Performance-2](/assets/Performance-2.jpg)
+
+![Intro](/assets/intro.jpeg)
 
 **Educational Outreach & Grant Work**
 
@@ -35,6 +35,7 @@ The program can include:
 
 These sessions are offered free of charge as part of my ongoing outreach efforts.
 
+![Performance-2](/assets/Performance-2.jpg)
 ![Performance-2](/assets/Performance-1.jpg)
 
 **Recent Performance**
