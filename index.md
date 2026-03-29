@@ -1,5 +1,4 @@
 
-# Amir Sharifi
 
 ## About Me
 
