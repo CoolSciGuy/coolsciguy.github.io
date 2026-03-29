@@ -39,16 +39,14 @@ These sessions are offered free of charge as part of my ongoing outreach efforts
 
 **Recent Performance**
 
-Below is a recent performance featuring myself and my instructor, Spyros Koliavasilis, who is also a teacher within Montgomery County Public Schools.
-
-
-[performance](https://www.youtube.com/watch?v=7-9Ga38Hl0c)
-
-(Embed your YouTube video here)
+Below is a recent [performance](https://www.youtube.com/watch?v=7-9Ga38Hl0c) featuring myself and my instructor, Spyros Koliavasilis, who is also a teacher within Montgomery County Public Schools.
 
 
 
-**Connect**
+**Bookings**
 
-For more information about my professional background, please send me an Email: amirrezasharifi@gmail.com
+Please send me an [Email](amirrezasharifi@gmail.com) if you'd like a free performance at your school!
+
+For more information about my professional background, please see my [Linkedin page](https://www.linkedin.com/in/amir-sharifi-ph-d-4006ab46/)
+
 
