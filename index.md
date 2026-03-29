@@ -9,4 +9,4 @@ My name is Amir Sharifi, a Rockville-based musician specializing in Middle Easte
 
 <!-- ![my bread](https://raw.githubusercontent.com/CoolSciGuy/coolsciguy.github.io/master/assets/bread.jpeg) -->
 
-![Performance-1](/assets/performance-1.jpg)
+![Performance-1](/assets/Performance-1.jpg)
