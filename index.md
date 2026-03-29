@@ -35,11 +35,14 @@ The program can include:
 
 These sessions are offered free of charge as part of my ongoing outreach efforts.
 
-
+![Performance-2](/assets/Performance-1.jpg)
 
 **Recent Performance**
 
 Below is a recent performance featuring myself and my instructor, Spyros Koliavasilis, who is also a teacher within Montgomery County Public Schools.
+
+
+[performance](https://www.youtube.com/watch?v=7-9Ga38Hl0c)
 
 (Embed your YouTube video here)
 
