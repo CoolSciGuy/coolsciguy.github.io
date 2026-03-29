@@ -48,6 +48,6 @@ Below is a recent [performance](https://www.youtube.com/watch?v=7-9Ga38Hl0c) fea
 
 Please send me an [Email](amirrezasharifi@gmail.com) if you'd like a free performance at your school!
 
-For more information about my professional background, please see my [Linkedin page](https://www.linkedin.com/in/amir-sharifi-ph-d-4006ab46/)
+For more information about my professional background, please see my [Linkedin page](https://www.linkedin.com/in/amir-sharifi-ph-d-4006ab46/).
 
 
