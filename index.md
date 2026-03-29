@@ -15,10 +15,10 @@ My name is Amir Sharifi, a Rockville-based musician specializing in Middle Easte
 
 In 2025, I was honored to receive a grant from the Montgomery County Arts and Humanities Council to bring Middle Eastern music into Montgomery County Public Schools.
 
-The focus of this project is to:
-	- Introduce students to microtonal music systems
-	- Explore the cultural context of Middle Eastern musical traditions
-	- Foster appreciation for global music and diverse artistic expressions
+The focus of this project is to
+	Introduce students to microtonal music systems
+	Explore the cultural context of Middle Eastern musical traditions
+	Foster appreciation for global music and diverse artistic expressions
 
 This program is designed to be engaging, educational, and accessible to students of all backgrounds.
 
