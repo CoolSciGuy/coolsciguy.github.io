@@ -1,6 +1,6 @@
-title: Machine learning and other things
-author: GitHub User
-email: your-email@domain.com
+title: Middle eastern music
+author: Amir Sharifi
+email: amirrezasharifi@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   about Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,14 +14,13 @@ sass:
 
 plainwhite:
   name: Amir Sharifi
-  tagline: "Data Scientist"
+  tagline: "Musician"
   date_format: "%b %-d, %Y"
   sitemap: False # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: Amirrrreza
-    github:  Coolsciguy
+
     linkedIn: in/amir-sharifi-ph-d-4006ab46/
 
 
