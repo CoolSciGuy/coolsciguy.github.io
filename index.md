@@ -5,16 +5,9 @@ Date: 2022-06-01 11:37:00 -0500
 ---
 
 
-(This website is under construction - here is my bio for now!)
+About Me
 
-Hey there, this is Amir. I am an environmental scientist by trade and a data scientist at heart. I have a PhD in Environmental sciences, and two degrees in Civil Engineering. I am currently serving the beautiful city of Washington DC, ensuring the health and integrity of streams in our nation's capital.
-
-I have experience in teaching and guiding students through solving complicated problems. 
-
-In my page, I will chronicle different data science and machine learning projects that I am working on. 
-
-
-I am also a Home baker! here is one of the many breads I bake at home:
+My name is Amir Sharifi, a Rockville-based musician specializing in Middle Eastern music. While I work professionally as a civil servant with the federal government, my passion lies in performing and sharing the rich musical traditions of the Middle East. My primary instruments are the oud and the setar, both of which I have studied extensively with master musicians.
 
 <!-- ![my bread](https://raw.githubusercontent.com/CoolSciGuy/coolsciguy.github.io/master/assets/bread.jpeg) -->
 
