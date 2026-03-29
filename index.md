@@ -29,8 +29,8 @@ This program is designed to be engaging, educational, and accessible to students
 One activity that I enjoy is performing for MCPS students. 
 
 The program can include:
-	•	A brief introduction to the oud 
-	•	A live performance (10–15 minutes)
+- A brief introduction to the oud 
+- Alive performance (10–15 minutes)
 
 These sessions are offered free of charge as part of my ongoing outreach efforts.
 
