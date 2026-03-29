@@ -10,7 +10,8 @@ My name is Amir Sharifi, a Rockville-based musician specializing in Middle Easte
 
 
 
-![Intro](/assets/intro.jpeg)
+![Intro](/assets/intro.jpeg){: style="width:200px; height:auto;" }
+
 
 **Educational Outreach & Grant Work**
 
