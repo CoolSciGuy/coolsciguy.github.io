@@ -1,6 +1,6 @@
 
 
-## About Me
+# About Me - Amir Sharifi
 
 **Middle Eastern Musician based in Rockville**
 
