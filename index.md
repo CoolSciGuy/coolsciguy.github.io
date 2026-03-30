@@ -4,7 +4,7 @@
 
 **Middle Eastern Musician based in Rockville, MD**
 
-My name is Amir Sharifi, a Rockville-based musician specializing in Middle Eastern music. While I work professionally as a civil servant with the federal government, my passion lies in performing and sharing the rich musical traditions of the Middle East. My primary instruments are the oud and the setar, both of which I have studied extensively with master musicians.
+My name is Amir Sharifi, a Rockville-based musician specializing in Middle Eastern music. While I work professionally as a civil servant with the federal government, my passion lies in performing and sharing the rich musical traditions of the Middle East. My primary instruments are the Oud and the Setar, both of which I have studied extensively with master musicians.
 
 
 
@@ -42,19 +42,14 @@ These sessions are offered free of charge as part of my ongoing outreach efforts
 Below is a recent [performance](https://www.youtube.com/watch?v=7-9Ga38Hl0c) featuring myself and my instructor, [Spyros Koliavasilis](https://spyroskoliavasilismusic.com/).
 
 
+**Connect with me: **
 
-**Bookings**
-
-Please [Email me](mailto:amirrezasharifi@gmail.com) if you'd like a free performance at your school!
+Please [Email me](mailto:amirrezasharifi@gmail.com) for questions, or if you'd like a free performance at your school!
 
 For more information about my professional background, please see my [Linkedin page](https://www.linkedin.com/in/amir-sharifi-ph-d-4006ab46/).
 
 
-<p>
-Connect with me: 
-<a href="https://www.linkedin.com/in/amir-sharifi-ph-d-4006ab46/" target="_blank">LinkedIn</a> | 
-<a href="mailto:amirrezasharifi@gmail.com" target="_blank">Email</a>
-</p>
+
 
 
 
