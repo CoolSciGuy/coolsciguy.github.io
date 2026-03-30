@@ -50,3 +50,12 @@ Please [Email me](mailto:amirrezasharifi@gmail.com) if you'd like a free perform
 For more information about my professional background, please see my [Linkedin page](https://www.linkedin.com/in/amir-sharifi-ph-d-4006ab46/).
 
 
+<p>
+Connect with me: 
+<a href="https://www.linkedin.com/in/amir-sharifi-ph-d-4006ab46/" target="_blank">LinkedIn</a> | 
+<a href="mailto:amirrezasharifi@gmail.com" target="_blank">Email</a>
+</p>
+
+
+
+
