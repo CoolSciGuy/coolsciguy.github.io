@@ -39,7 +39,7 @@ These sessions are offered free of charge as part of my ongoing outreach efforts
 
 **A Recent Performance**
 
-Below is a recent [performance](https://www.youtube.com/watch?v=7-9Ga38Hl0c) featuring myself and my instructor, [Spyros Koliavasilis](https://spyroskoliavasilismusic.com/).
+Here is a recent [performance](https://www.youtube.com/watch?v=7-9Ga38Hl0c) featuring myself and my instructor, [Spyros Koliavasilis](https://spyroskoliavasilismusic.com/).
 
 
 **Connect with me**
